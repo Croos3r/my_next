@@ -1,0 +1,9 @@
+*.a
+*.o
+*#*
+*~
+*.gc*
+resources/
+.idea/
+libmy_next.a
+libmy_next.a.test
